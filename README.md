@@ -1,12 +1,5 @@
-# Laravel DevOps Practice
+## Docker Commands
 
-This repository is for learning Git, Docker, CI/CD, and AWS deployment.
-
-## Git Learning
-
-Today I learned:
-- git init
-- git status
-- git add
-- git commit1
-- git log --oneline
+docker build
+docker run
+docker ps
