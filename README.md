@@ -1,1 +1,1 @@
-This repository is for learning Git, Docker, AWS deployment, and CI/CD pipelines.git
+This repository is for learning Git, Docker, CI/CD, AWS deployment, DevOps, and CI/CD pipelines.
