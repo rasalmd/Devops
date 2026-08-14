@@ -8,5 +8,5 @@ Today I learned:
 - git init
 - git status
 - git add
-- git commit
+- git commit1
 - git log --oneline
