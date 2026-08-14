@@ -1,5 +1,1 @@
-## Docker Commands
-
-docker build
-docker run
-docker ps
+This repository is for learning Git, Docker, AWS deployment, and CI/CD pipelines.git
