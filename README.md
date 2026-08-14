@@ -1,1 +1,6 @@
-This repository is for learning Git, Docker, CI/CD, AWS deployment, DevOps, and CI/CD pipelines.
+## CI/CD Learning
+
+Continuous Integration (CI)
+Continuous Deployment (CD)
+
+GitHub Actions can automate testing and deployment.
